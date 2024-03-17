@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 A new Flutter plugin project.
                        DESC
   s.homepage         = 'https://github.com/moyasar/moyasar-flutter'
-  s.license          = { type: 'MIT', file: 'LICENSE' }
+  s.license          = { type: 'MIT', file: '../LICENSE' }
   s.author           = { 'Moyasar' => 'developers@moyasar.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
